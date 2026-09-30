@@ -1,8 +1,8 @@
-\# Beecrowd 1052 - Mês
+# Beecrowd 1052 - Mês
 
 
 
-\## Descrição
+## Descrição
 
 
 
@@ -10,19 +10,19 @@ Este programa resolve o problema 1052 do Beecrowd.
 
 
 
-\## Tecnologias utilizadas
+## Tecnologias utilizadas
 
 
 
-\- Java
+- Java
 
-\- NetBeans
+- NetBeans
 
-\- Maven
+- Maven
 
 
 
-\## Entrada
+## Entrada
 
 
 
@@ -30,7 +30,7 @@ A entrada contém um valor inteiro entre 1 e 12.
 
 
 
-\## Saída
+## Saída
 
 
 
@@ -38,7 +38,7 @@ O programa apresenta o nome do mês correspondente ao número informado, em ingl
 
 
 
-\## Autor
+## Autor
 
 
 
